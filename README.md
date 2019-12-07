@@ -1,4 +1,4 @@
-# node-XMLHttpRequest #
+# node-XMLHttpRequest2 #
 
 node-XMLHttpRequest is a wrapper for the built-in http client to emulate the
 browser XMLHttpRequest object.
