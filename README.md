@@ -1,6 +1,6 @@
 # node-XMLHttpRequest2 #
 
-node-XMLHttpRequest is a wrapper for the built-in http client to emulate the
+node-XMLHttpRequest2 is a wrapper for the built-in http client to emulate the
 browser XMLHttpRequest object.
 
 This can be used with JS designed for browsers to improve reuse of code and
@@ -16,7 +16,7 @@ XHR object.
 	var XMLHttpRequest = require("xmlhttprequest2").XMLHttpRequest;
 	var xhr = new XMLHttpRequest();
 
-Note: use the lowercase string "xmlhttprequest" in your require(). On
+Note: use the lowercase string "xmlhttprequest2" in your require(). On
 case-sensitive systems (eg Linux) using uppercase letters won't work.
 
 ## License ##
